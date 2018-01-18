@@ -1,0 +1,12 @@
+{
+  "name": "eliz",
+  "version": "0.9",
+  "description": "Eliz Makes Things",
+  "main": "index.js",
+  "author": "Jesse Benson",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^1.4.1",
+    "gatsby-link": "^1.4.1"
+  }
+}
